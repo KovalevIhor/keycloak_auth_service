@@ -30,11 +30,11 @@ Configure `appsettings.json`
 
 1) Clients -> Create client
 2) Put client id and name 
-![imgs/img.png](img.png)
+![imgs/img.png](imgs/img.png)
 3) Chose `Client authentication` and `Service accounts roles`
-![imgs/img_1.png](img_1.png)
+![imgs/img_1.png](imgs/img_1.png)
 4) Service accounts roles -> Assign role -> Select all roles
-![imgs/img_2.png](img_2.png)
+![imgs/img_2.png](imgs/img_2.png)
 
 
 ** Create Group
@@ -46,9 +46,9 @@ Configure `appsettings.json`
 ** Add user scopes
 
 1) Client scopes -> Create client scopes
-![imgs/img_3.png](img_3.png)
+![imgs/img_3.png](imgs/img_3.png)
 2) Mappers -> Configure a new mapper -> User Attribute
-![imgs/img_4.png](img.png)
+![imgs/img_4.png](imgs/img_4.png)
 
 
 ** Generate user auth token
