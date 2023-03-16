@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Auth", "src\Auth\Auth.csproj", "{838A5526-0C05-4C33-BEDD-B2923794F099}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web", "src\Web\Web.csproj", "{360A9A3D-58F5-4A45-AFD1-B71E987562EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{838A5526-0C05-4C33-BEDD-B2923794F099}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{838A5526-0C05-4C33-BEDD-B2923794F099}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{838A5526-0C05-4C33-BEDD-B2923794F099}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{838A5526-0C05-4C33-BEDD-B2923794F099}.Release|Any CPU.Build.0 = Release|Any CPU
+		{360A9A3D-58F5-4A45-AFD1-B71E987562EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{360A9A3D-58F5-4A45-AFD1-B71E987562EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{360A9A3D-58F5-4A45-AFD1-B71E987562EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{360A9A3D-58F5-4A45-AFD1-B71E987562EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
